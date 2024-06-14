@@ -3,7 +3,7 @@
 <h1>Windows Form C# App with ADO.NET in order to display data from SQLServer database. How it works:</h1>
 <p>
   
-<h2>Class Attributes and Primary Methods:</h2>
+<h2>Class Properties and Primary Methods:</h2>
 class BaseClass=> the class from which the base attributes and methods derive from.<br  />
 
   _conS=>variable for connection string value used to connect with the database. <br />
